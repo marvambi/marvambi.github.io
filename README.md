@@ -2,7 +2,6 @@
 <html>
   <head>
       <meta charset="utf-8">
-      <title>Marvin Ambrose</title>
   </head>
   <body>
     <h1>Marvin Ambrose</h1>
